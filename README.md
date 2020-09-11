@@ -1,6 +1,6 @@
 # helloworld
 lmeo
-jo mama
+joe mama
 is fo fet
 she travis burger
 'music playing softly'
